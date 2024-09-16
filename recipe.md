@@ -6,12 +6,16 @@
 - 3/4 cup unsweetened cocoa powder
 - 1 cup chocolate chips
 - 1 tsp vanilla extract
-- ...
+- 1 cup whipped cream
 
 ## Instructions:
 1. Preheat the oven to 350°F (175°C).
 2. In a large bowl, whisk together the flour, sugar, cocoa powder, chocolate chips, and vanilla extract.
-3. ...
+3. Bake the Cake in the oven at 180°C for 30 minutes
+4. Let it cool down for 20 minutes
+5. Whip the Cream
+6. Ice the cake with the whipping cream
+7. Enjoy!!!
 
 ## Additional Directions by Alice:
 4. In a separate bowl, beat the eggs and add them to the mixture. Stir until well combined.
